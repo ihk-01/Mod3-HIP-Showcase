@@ -1,2 +1,2 @@
-# Mod3-HIP-Showcase
-Home Improvement Project Showcase
+# Mod3-HIP-Gallery
+Home Improvement Project Gallery
